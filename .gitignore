@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.egg-info/
+.env
+.ipynb_checkpoints/
+
+# Conda env files (optional: include only environment.yml)
+*.conda
+*.lock
+env/
+venv/
+
+# Jupyter
+*.nbconvert.ipynb
+
+# Node / Slidev
+node_modules/
+dist/
+.slidev/
+
+# macOS
+.DS_Store
