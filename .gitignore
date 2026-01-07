@@ -24,3 +24,6 @@ dist/
 
 # macOS
 .DS_Store
+
+# Ignore all assets directories
+**/assets/
