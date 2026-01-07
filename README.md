@@ -48,3 +48,19 @@ By participating in this course, students will:
 - Understand basic **statistics and machine learning concepts** in context.  
 
 > The emphasis is on **storytelling, persuasion, and practical application** rather than theory-heavy content.
+
+# Lecture Links
+- Lec 1 - https://youtu.be/ZbDtSQAALzI
+- Lec 2 - https://youtu.be/w1CQzEXgUSs
+- Lec 3 - 
+- Lec 4 - 
+- Lec 5 - 
+- Lec 6 - 
+- Lec 7 - 
+- Lec 8 - 
+- Lec 9 - 
+- Lec 10 - 
+- Lec 11 - 
+- Lec 12 - 
+- Lec 13 -
+- Lec 14 -
