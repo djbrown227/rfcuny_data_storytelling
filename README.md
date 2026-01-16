@@ -49,18 +49,20 @@ By participating in this course, students will:
 
 > The emphasis is on **storytelling, persuasion, and practical application** rather than theory-heavy content.
 
-# Lecture Links
+# Lecture PDF Links
+- https://drive.google.com/drive/folders/1Wg4zHlaVjn4TfGRjHriVs0D1JF4y9eE6?usp=share_link
+# Lecture Video Links
 - Lec 1 - https://youtu.be/ZbDtSQAALzI
 - Lec 2 - https://youtu.be/w1CQzEXgUSs
 - Lec 3 - 
 - Lec 4 - 
 - Lec 5 - 
-- Lec 6 - 
-- Lec 7 - 
-- Lec 8 - 
-- Lec 9 - 
-- Lec 10 - 
-- Lec 11 - 
+- Lec 6 - https://youtu.be/U71Mj0nOLlE
+- Lec 7 - https://youtu.be/i5JNUj0hTvo
+- Lec 8 - https://youtu.be/WfLoFxi4uUs
+- Lec 9 - https://youtu.be/y7ja4-iYauc
+- Lec 10 - https://youtu.be/HDNar9cKQHw
+- Lec 11 - https://youtu.be/ZvbNkyGuQWo
 - Lec 12 - 
 - Lec 13 -
 - Lec 14 -
