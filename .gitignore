@@ -26,4 +26,5 @@ dist/
 .DS_Store
 
 # Ignore all assets directories
-**/assets/
+**/assets/**/data/raw/
+*.csv
